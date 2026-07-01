@@ -7,6 +7,7 @@
 - 🌱 Currently learning Spring Boot and React
 - 🚀 Aspiring Software Engineer
 - 📚 Solving LeetCode problems regularly
+- Learing GitHub every day 🚀 
 
 ---
 
